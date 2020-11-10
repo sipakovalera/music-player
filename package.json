@@ -1,0 +1,11 @@
+{
+  "name": "music-maker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "music start"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
